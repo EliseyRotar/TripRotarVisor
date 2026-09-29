@@ -80,7 +80,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
 
 Tutte le fotografie sono libere (pubblico dominio) da Wikimedia Commons:
 
-- `piazza_palazzo.jpg` — Palazzo d'Inverno e Colonna di Alessandro (home)
+- `panorama_neva.jpg` — panorama della Neva con i ponti (home)
 - `ermitage.jpg` — scalinata del Nuovo Ermitage
 - `peterhof.jpg` — la Grande Cascata
 - `chiesa.jpg` — le cupole viste dal canale
