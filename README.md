@@ -80,7 +80,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
 
 Tutte le fotografie sono libere (pubblico dominio) da Wikimedia Commons:
 
-- `palazzo_inverno.jpg` — Palazzo d'Inverno dall'alto (home)
+- `piazza_palazzo.jpg` — Palazzo d'Inverno e Colonna di Alessandro (home)
 - `ermitage.jpg` — scalinata del Nuovo Ermitage
 - `peterhof.jpg` — la Grande Cascata
 - `chiesa.jpg` — le cupole viste dal canale
