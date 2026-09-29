@@ -90,6 +90,7 @@ Tutte le fotografie sono libere (pubblico dominio) da Wikimedia Commons:
 - `contatti.jpg` — fiume Moika e canale Griboedov
 - `borsch.jpg`, `pelmeni.jpg`, `blini.jpg` — i piatti tipici
 - `logo.png` — logo del sito
+- `favicon.ico` — icona del sito ricavata dallo stemma del logo (16, 32 e 48 px)
 
 ## Come vedere il sito
 
