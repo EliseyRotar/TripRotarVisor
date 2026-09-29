@@ -102,5 +102,6 @@ in locale: funziona anche senza connessione, a parte le mappe se aggiunte.
 
 ## Note
 
-Nomi di hotel, ristoranti, indirizzi, telefono ed email sono inventati per
-l'esercitazione. L'ufficio turistico TripRotarVisor non esiste.
+Telefono ed email sono inventati per l'esercitazione. Gli hotel e i ristoranti
+citati nella pagina "Dove dormire e mangiare" esistono davvero e i loro nomi
+linkano ai siti ufficiali. L'ufficio turistico TripRotarVisor non esiste.
