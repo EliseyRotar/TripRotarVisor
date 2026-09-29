@@ -133,6 +133,26 @@ body {
     border-bottom: 1px solid var(--gold);
 }
 
+#mappa {
+    float: left;
+    clear: left;
+    width: 33%;
+    margin-top: 20px;
+    padding: 20px 16px;
+    background-color: var(--light);
+    border-left: 6px solid var(--gold);
+}
+
+#mappa h3 {
+    margin: 0 0 12px 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--navy);
+    border-bottom: 1px solid #B9C6DC;
+    padding-bottom: 8px;
+}
+
 #destra {
     float: left;
     width: 64%;
