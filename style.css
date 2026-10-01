@@ -134,6 +134,13 @@ body {
     border-bottom: 1px solid var(--gold);
 }
 
+#mappa {
+    margin-top: 16px;
+    padding: 12px;
+    background-color: var(--white);
+    border-top: 4px solid var(--navy);
+}
+
 #destra {
     float: left;
     width: 64%;
@@ -245,6 +252,8 @@ body {
 
 #footer {
     clear: both;
+    position: relative;
+    z-index: 1;
     width: 100%;
     margin-top: 26px;
     padding: 22px 16px;
